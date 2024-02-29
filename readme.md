@@ -14,7 +14,6 @@ drive.mount('/content/drive')
 !pip install pettingzoo --quiet
 !pip install pymunk --quiet
 
-# it's laggy with amount of episodes more than 7
 ```
 
 ## Contributing
