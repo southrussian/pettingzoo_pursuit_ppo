@@ -1,11 +1,3 @@
-"""Basic code which shows what it's like to run PPO on the Pistonball env using the parallel API, this code is inspired by CleanRL.
-
-This code is exceedingly basic, with no logging or weights saving.
-The intention was for users to have a (relatively clean) ~200 line file to refer to when they want to design their own learning algorithm.
-
-Author: Jet (https://github.com/jjshoots)
-"""
-
 import numpy as np
 import torch
 import torch.nn as nn
@@ -13,7 +5,6 @@ import torch.optim as optim
 from supersuit import color_reduction_v0, frame_stack_v1, resize_v1
 from torch.distributions.categorical import Categorical
 
-# from pettingzoo.butterfly import pistonball_v6, cooperative_pong_v5
 from pettingzoo.mpe import simple_adversary_v3
 from pettingzoo.sisl import pursuit_v4
 
