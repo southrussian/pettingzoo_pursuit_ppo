@@ -22,7 +22,7 @@ drive.mount('/content/drive')
 A. Isakov, D. Peregorodiev. ITMO University. Saint-Petersburg, Russia. 2024.
 
 ## TensorBoard Results
-![1](/Users/southrussian/PycharmProjects/pursuit_ppo/templates/photo_2024-02-29 17.05.40.jpeg) 
+![1](/repository/templates/photo_2024-02-29 17.05.40.jpeg) 
 ![2](/Users/southrussian/PycharmProjects/pursuit_ppo/templates/photo_2024-02-29 17.05.42.jpeg)
 ![3](/Users/southrussian/PycharmProjects/pursuit_ppo/templates/photo_2024-02-29 17.05.43.jpeg)
 ![4](/Users/southrussian/PycharmProjects/pursuit_ppo/templates/photo_2024-02-29 17.05.44.jpeg)
